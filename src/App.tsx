@@ -14,7 +14,7 @@ function App() {
       </div>
 
       <div className="relative">
-        <SolarSystem />
+        <SOLAR-SYSTEM />
       </div>
 
       <div className="mt-8 text-sm text-gray-400 max-w-md text-center">

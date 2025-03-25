@@ -8,13 +8,13 @@ function App() {
       <div className="text-center mb-8">
         <div className="flex items-center justify-center gap-3 mb-4">
           <Sun className="w-8 h-8 text-yellow-500" />
-          <h1 className="text-3xl font-bold">Solar System</h1>
+          <h1 className="text-3xl font-bold">SOLAR-SYSTEM</h1>
         </div>
         <p className="text-gray-400">Watch the planets orbit around the sun</p>
       </div>
 
       <div className="relative">
-        <SOLAR-SYSTEM />
+        <SolarSystem/>
       </div>
 
       <div className="mt-8 text-sm text-gray-400 max-w-md text-center">
